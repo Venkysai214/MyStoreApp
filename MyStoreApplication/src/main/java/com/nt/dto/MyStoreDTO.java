@@ -1,5 +1,9 @@
 package com.nt.dto;
 
-public class MyStoreDTO {
+import java.io.Serializable;
 
+public class MyStoreDTO implements Serializable{
+
+	private String username;
+	private String password;
 }
