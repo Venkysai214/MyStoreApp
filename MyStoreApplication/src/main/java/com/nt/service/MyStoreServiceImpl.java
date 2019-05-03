@@ -1,4 +1,4 @@
-package com.nit.service;
+package com.nt.service;
 
 public class MyStoreServiceImpl implements MyStoreService{
 

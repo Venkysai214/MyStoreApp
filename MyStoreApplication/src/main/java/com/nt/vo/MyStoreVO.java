@@ -1,4 +1,4 @@
-package com.nit.vo;
+package com.nt.vo;
 
 public class MyStoreVO {
 

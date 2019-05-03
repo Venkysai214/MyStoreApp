@@ -1,4 +1,4 @@
-package com.nit.bo;
+package com.nt.bo;
 
 public class MyStoreBO {
 

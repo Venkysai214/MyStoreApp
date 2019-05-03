@@ -1,4 +1,4 @@
-package com.nit.dao;
+package com.nt.dao;
 
 public interface MyStoreDAO {
 

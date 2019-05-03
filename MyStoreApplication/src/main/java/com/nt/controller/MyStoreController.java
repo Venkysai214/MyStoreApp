@@ -1,4 +1,4 @@
-package com.nit.controller;
+package com.nt.controller;
 
 public class MyStoreController {
 

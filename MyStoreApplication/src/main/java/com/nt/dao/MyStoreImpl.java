@@ -1,4 +1,4 @@
-package com.nit.dao;
+package com.nt.dao;
 
 public class MyStoreImpl implements MyStoreDAO {
 

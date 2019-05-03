@@ -1,4 +1,4 @@
-package com.nit.dto;
+package com.nt.dto;
 
 public class MyStoreDTO {
 
