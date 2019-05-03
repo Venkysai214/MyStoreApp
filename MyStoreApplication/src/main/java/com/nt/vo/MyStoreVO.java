@@ -1,5 +1,9 @@
 package com.nt.vo;
 
-public class MyStoreVO {
+import java.io.Serializable;
 
+public class MyStoreVO implements Serializable{
+
+	private String username;
+	private String password;
 }
