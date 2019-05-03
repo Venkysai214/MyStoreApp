@@ -1,5 +1,11 @@
 package com.nt.bo;
 
-public class MyStoreBO {
+import java.io.Serializable;
 
+public class MyStoreBO implements Serializable{
+	private String username;
+	private String password;
+	
+	
+	
 }
