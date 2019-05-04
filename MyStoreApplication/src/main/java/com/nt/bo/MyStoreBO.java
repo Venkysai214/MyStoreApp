@@ -2,7 +2,7 @@ package com.nt.bo;
 
 import java.io.Serializable;
 
-public class MyStoreBO implements Serializable{
+public class MyStoreBO {
 	private String username;
 	private String password;
 	
